@@ -87,6 +87,12 @@
     NSLog(@"12344646");
 }
 
+
+-(void)test_1_5{
+    
+    NSLog(@"12344646");
+}
+
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
