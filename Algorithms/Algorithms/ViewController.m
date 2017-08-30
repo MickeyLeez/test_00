@@ -82,6 +82,10 @@
     NSLog(@"12344646");
 }
 
+-(void)test_1_4{
+    
+    NSLog(@"12344646");
+}
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
