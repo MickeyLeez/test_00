@@ -52,56 +52,10 @@
 //    
 //    NSLog(@"*****%zd",deptah);
     
- 
 
 }
 
 
--(void)test{
-    
-    NSLog(@"12344646");
-}
-
--(void)test_1{
-    
-    NSLog(@"12344646");
-}
-
--(void)test_2{
-    
-    NSLog(@"12344646");
-}
-
--(void)test_3{
-    
-    NSLog(@"12344646");
-}
-
--(void)test_1_3{
-    
-    NSLog(@"12344646");
-}
-
--(void)test_1_4{
-    
-    NSLog(@"12344646");
-}
-
-
--(void)test_1_5{
-    
-    NSLog(@"12344646");
-}
-
--(void)test_1_6{
-    
-    NSLog(@"12344646");
-}
-
--(void)test_1_1_3{
-    
-    NSLog(@"12344646");
-}
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
